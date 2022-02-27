@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The desires of the countie of Surrey about the late tumult at Westminster. The further proceedings in the county of Kent, and a discovery of the intentions for securing of London Bridge. With a letter from Excester, and the landing of some eminent persons in Cornwall, a rising there, and the forces which are gone to suppresse it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81370</idno>
+            <idno type="STC">Wing D1185</idno>
+            <idno type="STC">Thomason E445_4</idno>
+            <idno type="STC">ESTC R204769</idno>
+            <idno type="EEBO-CITATION">99864231</idno>
+            <idno type="PROQUEST">99864231</idno>
+            <idno type="VID">116456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The desires of the countie of Surrey about the late tumult at Westminster. The further proceedings in the county of Kent, and a discovery of the intentions for securing of London Bridge. With a letter from Excester, and the landing of some eminent persons in Cornwall, a rising there, and the forces which are gone to suppresse it.</title>
+                  <author>J. T.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter from Excester is signed: J. T.</note>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116456:1" rendition="simple:additions"/>
+            <p>THE DESIRES OF THE COUNTIE OF SURREY <hi>About the late Tumult at</hi> Weſtminſter.</p>
+            <p>The further proceedings in the County of <hi>Kent,</hi> and a diſco<g ref="char:EOLhyphen"/>very of the intentions for ſecuring of <hi>London</hi> Bridge.</p>
+            <p>With a Letter from <hi>Excester,</hi> and the landing of ſome emi<g ref="char:EOLhyphen"/>nent perſons in <hi>Cornwall,</hi> a Riſing there, and the Forces which are gone to ſuppreſſe it.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. A.</hi> and are to be ſold at the Royall Exchange in <hi>Cornhill.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116456:2"/>
+            <pb facs="tcp:116456:2"/>
+            <head>NEVVES FROM KENT</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the Kentiſh mens ſeizing of <hi>Rocheſter,</hi> and the Magazine, they have increaſed, divers, both Gentlemen, Servants, Souldiers, and men of all ſorts come in, and ſtand upon their defence, and cauſe all that paſse over the Bridge to ſign their Petition: they ſay that they will have the King come to <hi>London,</hi> and a treaty and the Army of ſectaries disbanded: they put all ſouldiers out of the Country, and permit none except ſuch as comply with them, and they have prevailed ſo far with the horſemen of the Country, that they are al<g ref="char:EOLhyphen"/>moſt all the troop gone in to joyn with them, and the trai<g ref="char:EOLhyphen"/>ned Bands are too cold to oppoſe them, and they will
+<pb facs="tcp:116456:3"/>grow too numerous, if ſpeedy courſe be not taken. An Of<g ref="char:EOLhyphen"/>ficer of the ſhip that carryed the Prince away was to ſee him that cals himſelf Prince <hi>Charles,</hi> and ſaying hee was not the Prince, he that perſonates him, told the Ma<g ref="char:EOLhyphen"/>jor that he came to kill him, and deſired he might bee ſecured, which was done accordingly, and others are com<g ref="char:EOLhyphen"/>mitted alſo, for ſaying that he is not the Prince. There are in <hi>Rocheſter,</hi> and the parts adjacent, at the leaſt a thouſand that are riſen in armes, beſides their intereſt in ſome Sea men, and others at Maidſtone, and other parts. Here are abundance of Ordnance, and many ſhips, a great number of arms, much powder in the ſhips, if ſome ſpeedy courſe be not taken herein, it may be pre<g ref="char:EOLhyphen"/>vented when too late.</p>
+            <p>We hear there are ſome Members of Parl. ordered to come down into theſe parts to pacifie thoſe which are now in Arms, and it is believed, that moſt of them will be perſwaded to go home to their own houſes, or obſerve ſuch order in preſenting their Petition, as was lately or<g ref="char:EOLhyphen"/>dered by the Parl. in relation to the prevention of tu<g ref="char:EOLhyphen"/>mults. We hear that ſome of the moſt active in this buſi<g ref="char:EOLhyphen"/>neſse have indeavoured to aſsociate themſelvs with thoſe they can ingage to their party in <hi>London,</hi> and ſomthing was preſented to the laſt <hi>Common Councel</hi> concer<g ref="char:EOLhyphen"/>ning an intention which ſome had to ſecure <hi>London Bridge on Tueſday next, which we doubt not, but by the fore knowledge thereof will be prevented by the wiſdome of that grave Councell, who (as
+<pb facs="tcp:116456:3"/>we underſtand) are reſolved to be in a poſture of defence, as they have great cauſe to do, for not on<g ref="char:EOLhyphen"/>ly the diſaffected of this County, who diſtinguiſh themſelves by wearing of colour'd Ribbons in their hats, but ſome of the diſcontented perſons of the County of Surry hold correſpondency toge<g ref="char:EOLhyphen"/>ther, and we have newes here, that on Munday laſt there was a meeting of many Gentlemen of Surry with ſome members of the Parl. at which meeting the Gentlemen for the County drew up certaine heads or particulars of their deſires, touching the late combuſtion when they came to Weſtminſter with their Petition. One of their deſires is,</hi> That he which ſpilt the fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt bloud there ſhould be made exem<g ref="char:EOLhyphen"/>plary; <hi>but on which ſide that will appear to bee, we leave to the evidence. Another is,</hi> that reparation may be made for what was loſt by particular perſons; <hi>touching which, wee heare good ſatisfaction was preſently given, which we hope will prevent any further diſcontents in that County. This morning intelligence was brought, that the Parl. have voted a perſonal treaty with the King, upon condition, that his Maj. firſt grant the</hi> Militia, <hi>ſettle Religion and recall all Proclamations and Declarations a<g ref="char:EOLhyphen"/>gainſt the Parl. which gives much ſatisfaction to the moderate party, and it is now verily believed, that all except the old profeſſed Royaliſts, as they
+<pb facs="tcp:116456:4"/>are called, will reſt ſatisfied with what the</hi> Parli<g ref="char:EOLhyphen"/>ament <hi>ſhall further con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lude on about this buſi<g ref="char:EOLhyphen"/>neſſe, and other things in relation to ſetling of the Kingdome.</hi>
+            </p>
+            <closer>
+               <dateline>Darking <date>
+                     <hi>25</hi> May <hi>1648.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter From Exceſter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to your deſire at my parting with you, I ſhal as neer as I can give you the true intelligence out of theſe parts Sir <hi>Hardreſſe Wal<g ref="char:EOLhyphen"/>ler</hi> having ſetled this City in poſture of defence, newes was brought of ſome inſurrections further in the Weſt whereupon he ſent part of his horſe and foot to prevent the further increaſe thereof: this Riſing is ſaid to be at St. <hi>Ives,</hi> and at <hi>Penſance,</hi> they have gotten ſome armes, and ſome perſons of quality are ſaid to be landed there, the Forces which are marched that way will be with them this week, the Country between this and them are generally indifferently well affected; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by Let<g ref="char:EOLhyphen"/>ters from <hi>Bath</hi> it is certified, that divers diſaffe<g ref="char:EOLhyphen"/>cted perſons which were gotten thither, and ſhew<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:116456:4"/>themſelves active, are ſecured by the well-affe<g ref="char:EOLhyphen"/>cted party.</p>
+            <p>By an Expreſſe hither is brought how it fares with our enemies, and the ſtate of our Forces in South-Wales; of them taken in the laſt Defeat, theſe following are put aboard Vice-admirall <hi>Crowther,</hi> and are to be tryed at the Head quarters, Major General <hi>Stradling,</hi> Major <hi>Philips,</hi> Captaine <hi>Thomas Matthewes,</hi> Captain <hi>William Button,</hi> Maſter <hi>Miles Matthewes,</hi> Lieutenant-colonel <hi>Hopkin Pot<g ref="char:EOLhyphen"/>kins.</hi> Lieutenant-colonel <hi>Thomas Morgan,</hi> Colonell <hi>Arthur Harris,</hi> Captain <hi>Edward Walker,</hi> Capt. <hi>Rich<g ref="char:EOLhyphen"/>ard Cradock,</hi> Lieutenant-colonell <hi>Thomas:</hi> at a coun<g ref="char:EOLhyphen"/>cel of War four were condemned, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd after ſhot to death, one hanged, ſeven condemned, not yet execu<g ref="char:EOLhyphen"/>ted.</p>
+            <p>About 160 are in Chepſtow caſtle, Wedneſday laſt, they had neither bread nor ſalt, quarter was offered them, but they refuſed; they now cry for it but it will not be granted them: they had let down a Boat to have eſcaped, but a ſouldier of ours ſwoom over the River, with a knife in his mouth, cut the Rope, and brought away the Boat, Lieutenant-General <hi>Cromwel</hi> is by this day before <hi>Pembroke,</hi> and hath made <hi>Poyer</hi> either take reaſon, or ſet on work a Mine to blow him towards hea<g ref="char:EOLhyphen"/>ven;
+<pb facs="tcp:116456:5"/>this is the ſtate of South-Wales, notwithſtan<g ref="char:EOLhyphen"/>ding the Gent. Letter to his Coſin in <hi>London.</hi> It is ſaid Col. <hi>Powel</hi> is ſlain by <hi>Langhorn,</hi> which is all at preſent, from</p>
+            <closer>
+               <signed>Your affectionate friend, <hi>J. T.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Exceter</hi> 
+                  <date>22. <hi>May</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur <hi>Gilbert Mabbott.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
